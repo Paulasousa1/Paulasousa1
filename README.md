@@ -1,6 +1,6 @@
 <div>
  <h1 align="center">
-  <h1 align="left">Oi Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou <a href="https://www.linkedin.com/in/paula-k-sousa/">Paula Sousa 😃️</a></h1>
+  <h1 align="left">Oi Tudo bem? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Paula Sousa 😃️</a></h1>
   
   
   <p align="center">
